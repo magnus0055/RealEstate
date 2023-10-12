@@ -36,6 +36,3 @@ To learn more about **refine**, please check out the [Documentation](https://ref
 - **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
 - **Google Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
 
-## License
-
-MIT
